@@ -9,5 +9,7 @@ Few of the graphs have been plotted which gives a basic overview.
 # Implementing Model
 A total of four different models has been used such as Linear Regression, Lasso, Ridge, RandomForestRegressor.
 The best performing model comes out to be Linear Regression rather than RandomForestregressor as it was increasing Time Complexity and leading to increase in error.
+# Evaluation and Hyperparameters
+Hyperparametrs have been applied and different evaluation metrices has been used such as 'MAE', 'MSE','R^2' etc.
 # Analysis
 At last Residual Analysis of the best performing model where the distribution of the plot indicates that model performs well over unseen data when compared to plot of train data. So,we can conclude that model is neither overfitting nor underfitting.
